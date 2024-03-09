@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CCrusherGrab
+- 👀 I’m interested in just anything
+- 🌱 I’m currently learning Python and C#
